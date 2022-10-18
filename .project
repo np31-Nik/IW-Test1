@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <projectDescription>
 	<name>IW-Test1</name>
 	<comment></comment>
@@ -14,4 +15,20 @@
 	<natures>
 		<nature>com.webratio.ide.wrprojectnature</nature>
 	</natures>
+=======
+
+<projectDescription> 
+  <name>IW-Test1</name>  
+  <comment/>  
+  <projects></projects>  
+  <buildSpec> 
+    <buildCommand> 
+      <name>com.webratio.ide.core.wrcorebuilder</name>  
+      <arguments></arguments> 
+    </buildCommand> 
+  </buildSpec>  
+  <natures> 
+    <nature>com.webratio.ide.wrprojectnature</nature> 
+  </natures> 
+>>>>>>> f088e59d3dc4f054aacb4e6d274e133f3ba6852e
 </projectDescription>
