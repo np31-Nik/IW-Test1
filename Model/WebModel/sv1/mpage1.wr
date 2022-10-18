@@ -1,3 +1,10 @@
 <MasterPage xmlns:gr="http://www.webratio.com/2006/WebML/Graph" gr:x="185" gr:y="225" id="sv1#mpage1" name="MasterPage 1">
-  <ContentUnits/>
+  <ContentUnits>
+    <DataUnit gr:x="0" gr:y="0" id="sv1#mpage1#dau1" name="Details1">
+      <Selector id="sv1#mpage1#dau1#su1" defaultPolicy="fill" booleanOperator="and">
+        <KeyCondition id="sv1#mpage1#dau1#su1#kcond1" name="KeyCondition1" predicate="in" implied="false"/>
+      </Selector>
+    </DataUnit>
+    <IndexUnit gr:x="150" gr:y="50" id="sv1#mpage1#inu1" name="Simple List1"/>
+  </ContentUnits>
 </MasterPage>
