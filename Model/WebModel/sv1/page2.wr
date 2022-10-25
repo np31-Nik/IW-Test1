@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <Page xmlns:gr="http://www.webratio.com/2006/WebML/Graph" xmlns:layout="http://www.webratio.com/2006/WebML/Layout" gr:x="560" gr:y="120" id="sv1#page2" name="pues eso">
+=======
+<Page xmlns:gr="http://www.webratio.com/2006/WebML/Graph" xmlns:layout="http://www.webratio.com/2006/WebML/Layout" gr:x="870" gr:y="365" id="sv1#page2" name="Page 2">
+>>>>>>> 3784aa06701812bada438b4f27b9abefdb56d685
   <ContentUnits/>
   <layout:Grid containerType="grid">
     <layout:Row>
